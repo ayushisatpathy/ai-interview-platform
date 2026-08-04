@@ -5,7 +5,9 @@ An AI-powered full-stack web application that helps candidates prepare for job i
 Using **Google Gemini AI**, the platform evaluates profile-job compatibility, identifies skill gaps, generates technical and behavioral interview questions, and creates a structured preparation roadmap.
 
 ---
+🌐 Live Demo
 
+Frontend (Vercel):https://ai-interview-platform-lilac-ten.vercel.app/
 ## ✨ Features
 
 - 🔐 Secure JWT Authentication
